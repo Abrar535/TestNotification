@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25c4aa8b-18f2-41eb-974b-7327fee83e3f" name="Default Changelist" comment="NotificationService implemented with dockerizing-2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ggRUlvyGqlpbPJWbhAuzmKqTOJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RabbitMQ Project" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.NotificationServiceApplication">
+    <configuration name="NotificationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="NotificationServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.notificationserviceapplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.notificationserviceapplication.NotificationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotificationserviceapplicationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="NotificationServiceApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.notificationserviceapplication.NotificationserviceapplicationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.NotificationServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25c4aa8b-18f2-41eb-974b-7327fee83e3f" name="Default Changelist" comment="" />
+      <created>1598534266363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598534266363</updated>
+      <workItem from="1598534272783" duration="1534000" />
+      <workItem from="1598818219835" duration="33427000" />
+      <workItem from="1599049032072" duration="7653000" />
+      <workItem from="1599069672322" duration="397000" />
+      <workItem from="1599070323785" duration="6470000" />
+      <workItem from="1599128958697" duration="2234000" />
+      <workItem from="1599137152915" duration="2749000" />
+      <workItem from="1599140512956" duration="4520000" />
+      <workItem from="1599201089454" duration="1115000" />
+    </task>
+    <task id="LOCAL-00001" summary="NotificationService implemented without dockerizing">
+      <created>1598893944013</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598893944013</updated>
+    </task>
+    <task id="LOCAL-00002" summary="NotificationService implemented with dockerizing-1">
+      <created>1599083936123</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599083936123</updated>
+    </task>
+    <task id="LOCAL-00003" summary="NotificationService implemented with dockerizing-1">
+      <created>1599144913569</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599144913569</updated>
+    </task>
+    <task id="LOCAL-00004" summary="NotificationService implemented with dockerizing-1">
+      <created>1599144923342</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599144923343</updated>
+    </task>
+    <task id="LOCAL-00005" summary="NotificationService implemented with dockerizing-2">
+      <created>1599144935684</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599144935684</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NotificationService implemented without dockerizing" />
+    <MESSAGE value="NotificationService implemented with dockerizing-1" />
+    <MESSAGE value="NotificationService implemented with dockerizing-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="NotificationService implemented with dockerizing-2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser" timestamp="1598886597020">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="544" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1598870729002" />
+    <state x="765" y="204" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-204.1366.728@0.0.1920.1040" timestamp="1598886597020" />
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1599203410326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.-204.1366.728@0.0.1920.1040" timestamp="1599203410326" />
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom" timestamp="1599203629041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598870775981" />
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-204.1366.728@0.0.1920.1040" timestamp="1599203629041" />
+    <state width="1323" height="161" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-204.1366.728@1920.-204.1366.728" timestamp="1599024873891" />
+    <state width="1877" height="254" key="GridCell.Tab.0.center" timestamp="1599203629041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598870775981" />
+    <state width="1877" height="254" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-204.1366.728@0.0.1920.1040" timestamp="1599203629041" />
+    <state width="1323" height="161" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-204.1366.728@1920.-204.1366.728" timestamp="1599024873891" />
+    <state width="1877" height="254" key="GridCell.Tab.0.left" timestamp="1599203629041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598870775981" />
+    <state width="1877" height="254" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-204.1366.728@0.0.1920.1040" timestamp="1599203629041" />
+    <state width="1323" height="161" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-204.1366.728@1920.-204.1366.728" timestamp="1599024873891" />
+    <state width="1877" height="254" key="GridCell.Tab.0.right" timestamp="1599203629041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598870775981" />
+    <state width="1877" height="254" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-204.1366.728@0.0.1920.1040" timestamp="1599203629041" />
+    <state width="1323" height="161" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-204.1366.728@1920.-204.1366.728" timestamp="1599024873891" />
+    <state width="1877" height="254" key="GridCell.Tab.1.bottom" timestamp="1599203629037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598870775982" />
+    <state width="1877" height="254" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-204.1366.728@0.0.1920.1040" timestamp="1599203629037" />
+    <state width="1323" height="161" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-204.1366.728@1920.-204.1366.728" timestamp="1599024873892" />
+    <state width="1877" height="254" key="GridCell.Tab.1.center" timestamp="1599203629037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1598870775982" />
+    <state width="1877" height="254" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-204.1366.728@0.0.1920.1040" timestamp="1599203629037" />
+    <state width="1323" height="161" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-204.1366.728@1920.-204.1366.728" timestamp="1599024873892" />
+    <state width="1877" height="254" key="GridCell.Tab.1.left" timestamp="1599203629037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1598870775982" />
+    <state width="1877" height="254" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-204.1366.728@0.0.1920.1040" timestamp="1599203629037" />
+    <state width="1323" height="161" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-204.1366.728@1920.-204.1366.728" timestamp="1599024873892" />
+    <state width="1877" height="254" key="GridCell.Tab.1.right" timestamp="1599203629037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="174" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1598870775982" />
+    <state width="1877" height="254" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-204.1366.728@0.0.1920.1040" timestamp="1599203629037" />
+    <state width="1323" height="161" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-204.1366.728@1920.-204.1366.728" timestamp="1599024873892" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1599145164644">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.-204.1366.728@0.0.1920.1040" timestamp="1599145164644" />
+    <state x="342" y="181" key="new project wizard" timestamp="1598950086134">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="181" key="new project wizard/0.0.1920.1040/1920.-204.1366.728@0.0.1920.1040" timestamp="1598950086134" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598863637968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-204.1366.728@0.0.1920.1040" timestamp="1598863637968" />
+  </component>
+</project>
